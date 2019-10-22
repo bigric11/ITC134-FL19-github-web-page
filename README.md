@@ -1,2 +1,11 @@
-# ITC134-FL19-github-web-page
-An example of github web page
+<html>
+    <body>
+        <h1> This is my web page!</h1>
+        <p>clever content goes here!</p>
+        <p>clever content goes here!</p>
+        <p>clever content goes here!</p>
+        <p>clever content goes here!</p>
+        <p>clever content goes here!</p>
+        <p>clever content goes here!</p>
+    </body>
+</html>
